@@ -2,11 +2,10 @@
   "name": "food-delivery-backend",
   "version": "1.0.0",
   "main": "server.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
     "server": "nodemon server.js"
-
-   },
+  },
   "author": "",
   "license": "ISC",
   "description": "",
